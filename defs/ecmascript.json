@@ -357,6 +357,12 @@
         "!url": "https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Object/toString",
         "!doc": "Returns a string representing the object."
       },
+			  	  "subclass": {
+      "!type": "fn(proto: ?) -> !custom:klassified_subclass",
+      "!url": "https://github.com/foretagsplatsen/klassified",
+      "!doc": "Creates a new object FFFFF"
+	  },
+
       "toLocaleString": {
         "!type": "fn() -> string",
         "!url": "https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Object/toLocaleString",
